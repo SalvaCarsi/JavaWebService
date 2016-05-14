@@ -5,6 +5,6 @@
     <title>Rest app</title>
   </head>
   <body>
-    REST APPLICATION WELCOME PAGE
+    APP RUNNING!
   </body>
 </html>
